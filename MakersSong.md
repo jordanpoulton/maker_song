@@ -6,8 +6,14 @@ Makers, Makers, We're Movers & Shakers!
 
 How to be twice as smart,
 the bonus speeder-uppper
+
+fetch is giving an error all the time...
+oops i did it again, git pushed and not merged
 we don't to part
 'cause we gotta eat supper.
+
+We don't know what we're doing
+
 
 #To be rapped:
 We will fork your repo,
