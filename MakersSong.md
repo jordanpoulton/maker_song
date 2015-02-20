@@ -1,1 +1,1 @@
-how ot be twice as smart
+How to be twice as smart,
